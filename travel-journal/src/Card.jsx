@@ -8,7 +8,7 @@ const Card = (props) => {
       <div>
         <img src={props.imageUrl} className="travelImg" alt="" />
       </div>
-      <div>
+      <div className="rightTravelContainer">
         <img src={Location} className="locationLogo" alt="location logo" />
         <span className="country">{props.location}</span>
         <a href={props.googleMapsUrl} className="googleMaps">
