@@ -1,20 +1,30 @@
 .travelContainer {
   color: #2b283a;
   margin: 45px 40px 28px;
+  display: flex;
+}
+
+.rightTravelContainer {
+  margin-left: 19px;
+  text-align: left;
+  width: 326px;
 }
 
 .travelImg {
   width: 125px;
   height: 168px;
+  border-radius: 5px;
 }
 
 .locationLogo {
   width: 7px;
   height: 9.55px;
+  margin-right: 4px;
 }
 
 .country {
   font-size: 10.24px;
+  margin-right: 12px;
 }
 
 .googleMaps {
@@ -25,14 +35,18 @@
 .travelNames {
   font-size: 25px;
   font-weight: 700;
+  line-height: 30px;
 }
 
 .travelDates {
   font-weight: 700;
   font-size: 10.24px;
+  margin-top: 7px;
 }
 
 .travelDescription {
   font-weight: 400;
   font-size: 10.24px;
+  margin-top: 9px;
+  line-height: 150%;
 }
