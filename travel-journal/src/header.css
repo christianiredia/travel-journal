@@ -1,0 +1,19 @@
+header {
+  width: 100%;
+  background: #f55a5a;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: whitesmoke;
+}
+
+header img {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+}
+
+header span {
+  font-size: 14.46px;
+}
