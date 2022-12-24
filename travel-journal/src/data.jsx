@@ -11,7 +11,7 @@ export default [
   },
   {
     title: "Sydney Opera House",
-    location: "AUSTRAILIA",
+    location: "AUSTRALIA",
     googleMapsUrl:
       "https://www.google.com/maps/d/u/0/viewer?mid=1NYBTZlF3StQEf65_sVbpMlskCoo&hl=en&ll=-33.85691%2C151.215262&z=17",
     startDate: "27 May, 2021",
